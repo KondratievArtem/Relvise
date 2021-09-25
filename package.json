@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https//kondratievartem.github.io/Relvise",
+  "homepage": "https://kondratievartem.github.io/Relvise",
   "scripts": {
     "deploy": "gh-pages -d Relvise"
   },
