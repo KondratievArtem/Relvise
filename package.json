@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https//kondratievartem.github.io/Relvise",
   "scripts": {
-    "deploy": "gh-pages -D Relvise"
+    "deploy": "gh-pages -d Relvise"
   },
   "repository": {
     "type": "git",
