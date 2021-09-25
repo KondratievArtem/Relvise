@@ -1,0 +1,24 @@
+{
+  "name": "Relvise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https//kondratievartem.github.io/Relvise",
+  "scripts": {
+    "deploy": "gh-pages -D Relvise"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KondratievArtem/Relvise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KondratievArtem/Relvise/issues"
+  },
+  "homepage": "https://github.com/KondratievArtem/Relvise#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
